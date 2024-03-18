@@ -5,7 +5,9 @@
 ## 설치목록
 
 - [x] react-router-dom
+- [x] react-icons
+- [x] tailwindcss
 
 ## ToDo
 
-- [] Router 경로설정
+- [x] Router 경로설정
